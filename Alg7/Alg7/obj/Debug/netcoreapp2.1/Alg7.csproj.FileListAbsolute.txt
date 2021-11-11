@@ -1,0 +1,21 @@
+F:\Own\КНУ\Visual Studio\Alg7\Alg7\bin\Debug\netcoreapp2.1\Alg7.deps.json
+F:\Own\КНУ\Visual Studio\Alg7\Alg7\bin\Debug\netcoreapp2.1\Alg7.runtimeconfig.json
+F:\Own\КНУ\Visual Studio\Alg7\Alg7\bin\Debug\netcoreapp2.1\Alg7.runtimeconfig.dev.json
+F:\Own\КНУ\Visual Studio\Alg7\Alg7\bin\Debug\netcoreapp2.1\Alg7.dll
+F:\Own\КНУ\Visual Studio\Alg7\Alg7\bin\Debug\netcoreapp2.1\Alg7.pdb
+F:\Own\КНУ\Visual Studio\Alg7\Alg7\obj\Debug\netcoreapp2.1\Alg7.csprojAssemblyReference.cache
+F:\Own\КНУ\Visual Studio\Alg7\Alg7\obj\Debug\netcoreapp2.1\Alg7.csproj.CoreCompileInputs.cache
+F:\Own\КНУ\Visual Studio\Alg7\Alg7\obj\Debug\netcoreapp2.1\Alg7.AssemblyInfoInputs.cache
+F:\Own\КНУ\Visual Studio\Alg7\Alg7\obj\Debug\netcoreapp2.1\Alg7.AssemblyInfo.cs
+F:\Own\КНУ\Visual Studio\Alg7\Alg7\obj\Debug\netcoreapp2.1\Alg7.dll
+F:\Own\КНУ\Visual Studio\Alg7\Alg7\obj\Debug\netcoreapp2.1\Alg7.pdb
+F:\ForGit\Alg7\Alg7\bin\Debug\netcoreapp2.1\Alg7.deps.json
+F:\ForGit\Alg7\Alg7\bin\Debug\netcoreapp2.1\Alg7.runtimeconfig.json
+F:\ForGit\Alg7\Alg7\bin\Debug\netcoreapp2.1\Alg7.runtimeconfig.dev.json
+F:\ForGit\Alg7\Alg7\bin\Debug\netcoreapp2.1\Alg7.dll
+F:\ForGit\Alg7\Alg7\bin\Debug\netcoreapp2.1\Alg7.pdb
+F:\ForGit\Alg7\Alg7\obj\Debug\netcoreapp2.1\Alg7.csprojAssemblyReference.cache
+F:\ForGit\Alg7\Alg7\obj\Debug\netcoreapp2.1\Alg7.AssemblyInfoInputs.cache
+F:\ForGit\Alg7\Alg7\obj\Debug\netcoreapp2.1\Alg7.AssemblyInfo.cs
+F:\ForGit\Alg7\Alg7\obj\Debug\netcoreapp2.1\Alg7.dll
+F:\ForGit\Alg7\Alg7\obj\Debug\netcoreapp2.1\Alg7.pdb

@@ -1,0 +1,21 @@
+F:\Own\КНУ\Visual Studio\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.deps.json
+F:\Own\КНУ\Visual Studio\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.runtimeconfig.json
+F:\Own\КНУ\Visual Studio\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.runtimeconfig.dev.json
+F:\Own\КНУ\Visual Studio\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.dll
+F:\Own\КНУ\Visual Studio\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.pdb
+F:\Own\КНУ\Visual Studio\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.csprojAssemblyReference.cache
+F:\Own\КНУ\Visual Studio\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.csproj.CoreCompileInputs.cache
+F:\Own\КНУ\Visual Studio\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.AssemblyInfoInputs.cache
+F:\Own\КНУ\Visual Studio\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.AssemblyInfo.cs
+F:\Own\КНУ\Visual Studio\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.dll
+F:\Own\КНУ\Visual Studio\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.pdb
+F:\Own\КНУ\1 курс\Visual Studio\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.deps.json
+F:\Own\КНУ\1 курс\Visual Studio\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.runtimeconfig.json
+F:\Own\КНУ\1 курс\Visual Studio\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.runtimeconfig.dev.json
+F:\Own\КНУ\1 курс\Visual Studio\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.dll
+F:\Own\КНУ\1 курс\Visual Studio\laba3\laba3\bin\Debug\netcoreapp2.1\laba3.pdb
+F:\Own\КНУ\1 курс\Visual Studio\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.csprojAssemblyReference.cache
+F:\Own\КНУ\1 курс\Visual Studio\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.AssemblyInfoInputs.cache
+F:\Own\КНУ\1 курс\Visual Studio\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.AssemblyInfo.cs
+F:\Own\КНУ\1 курс\Visual Studio\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.dll
+F:\Own\КНУ\1 курс\Visual Studio\laba3\laba3\obj\Debug\netcoreapp2.1\laba3.pdb

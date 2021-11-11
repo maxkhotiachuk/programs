@@ -1,0 +1,23 @@
+F:\Own\КНУ\Visual Studio\laba6.1\laba6.1\bin\Debug\laba6.1.exe.config
+F:\Own\КНУ\Visual Studio\laba6.1\laba6.1\bin\Debug\laba6.1.exe
+F:\Own\КНУ\Visual Studio\laba6.1\laba6.1\bin\Debug\laba6.1.pdb
+F:\Own\КНУ\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6.1.csprojAssemblyReference.cache
+F:\Own\КНУ\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6._1.Form1.resources
+F:\Own\КНУ\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6._1.Properties.Resources.resources
+F:\Own\КНУ\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6.1.csproj.GenerateResource.cache
+F:\Own\КНУ\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6.1.csproj.CoreCompileInputs.cache
+F:\Own\КНУ\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6.1.exe
+F:\Own\КНУ\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6.1.pdb
+F:\Own\КНУ\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6._1.About.resources
+F:\Own\КНУ\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6._1.Help.resources
+F:\Own\КНУ\1 курс\Visual Studio\laba6.1\laba6.1\bin\Debug\laba6.1.exe.config
+F:\Own\КНУ\1 курс\Visual Studio\laba6.1\laba6.1\bin\Debug\laba6.1.exe
+F:\Own\КНУ\1 курс\Visual Studio\laba6.1\laba6.1\bin\Debug\laba6.1.pdb
+F:\Own\КНУ\1 курс\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6.1.csprojAssemblyReference.cache
+F:\Own\КНУ\1 курс\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6._1.About.resources
+F:\Own\КНУ\1 курс\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6._1.Form1.resources
+F:\Own\КНУ\1 курс\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6._1.Help.resources
+F:\Own\КНУ\1 курс\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6._1.Properties.Resources.resources
+F:\Own\КНУ\1 курс\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6.1.csproj.GenerateResource.cache
+F:\Own\КНУ\1 курс\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6.1.exe
+F:\Own\КНУ\1 курс\Visual Studio\laba6.1\laba6.1\obj\Debug\laba6.1.pdb

@@ -1,0 +1,13 @@
+F:\Own\КНУ\Visual Studio\Alg1\Alg1\bin\Debug\Alg1.exe.config
+F:\Own\КНУ\Visual Studio\Alg1\Alg1\bin\Debug\Alg1.exe
+F:\Own\КНУ\Visual Studio\Alg1\Alg1\bin\Debug\Alg1.pdb
+F:\Own\КНУ\Visual Studio\Alg1\Alg1\obj\Debug\Alg1.csprojAssemblyReference.cache
+F:\Own\КНУ\Visual Studio\Alg1\Alg1\obj\Debug\Alg1.csproj.CoreCompileInputs.cache
+F:\Own\КНУ\Visual Studio\Alg1\Alg1\obj\Debug\Alg1.exe
+F:\Own\КНУ\Visual Studio\Alg1\Alg1\obj\Debug\Alg1.pdb
+F:\Own\КНУ\1 курс\Visual Studio\Alg1\Alg1\bin\Debug\Alg1.exe.config
+F:\Own\КНУ\1 курс\Visual Studio\Alg1\Alg1\bin\Debug\Alg1.exe
+F:\Own\КНУ\1 курс\Visual Studio\Alg1\Alg1\bin\Debug\Alg1.pdb
+F:\Own\КНУ\1 курс\Visual Studio\Alg1\Alg1\obj\Debug\Alg1.csprojAssemblyReference.cache
+F:\Own\КНУ\1 курс\Visual Studio\Alg1\Alg1\obj\Debug\Alg1.exe
+F:\Own\КНУ\1 курс\Visual Studio\Alg1\Alg1\obj\Debug\Alg1.pdb

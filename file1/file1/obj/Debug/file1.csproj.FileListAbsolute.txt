@@ -1,0 +1,14 @@
+E:\Own\КНУ\Visual Studio\file1\file1\bin\Debug\file1.exe.config
+E:\Own\КНУ\Visual Studio\file1\file1\bin\Debug\file1.exe
+E:\Own\КНУ\Visual Studio\file1\file1\bin\Debug\file1.pdb
+E:\Own\КНУ\Visual Studio\file1\file1\obj\Debug\file1.csprojAssemblyReference.cache
+E:\Own\КНУ\Visual Studio\file1\file1\obj\Debug\file1.csproj.CoreCompileInputs.cache
+E:\Own\КНУ\Visual Studio\file1\file1\obj\Debug\file1.exe
+E:\Own\КНУ\Visual Studio\file1\file1\obj\Debug\file1.pdb
+F:\Own\КНУ\Visual Studio\file1\file1\bin\Debug\file1.exe.config
+F:\Own\КНУ\Visual Studio\file1\file1\bin\Debug\file1.exe
+F:\Own\КНУ\Visual Studio\file1\file1\bin\Debug\file1.pdb
+F:\Own\КНУ\Visual Studio\file1\file1\obj\Debug\file1.csprojAssemblyReference.cache
+F:\Own\КНУ\Visual Studio\file1\file1\obj\Debug\file1.csproj.CoreCompileInputs.cache
+F:\Own\КНУ\Visual Studio\file1\file1\obj\Debug\file1.exe
+F:\Own\КНУ\Visual Studio\file1\file1\obj\Debug\file1.pdb

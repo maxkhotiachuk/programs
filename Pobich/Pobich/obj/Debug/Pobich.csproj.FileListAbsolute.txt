@@ -1,0 +1,13 @@
+E:\Own\КНУ\Visual Studio\Pobich\Pobich\bin\Debug\Pobich.exe.config
+E:\Own\КНУ\Visual Studio\Pobich\Pobich\bin\Debug\Pobich.exe
+E:\Own\КНУ\Visual Studio\Pobich\Pobich\bin\Debug\Pobich.pdb
+E:\Own\КНУ\Visual Studio\Pobich\Pobich\obj\Debug\Pobich.csprojAssemblyReference.cache
+E:\Own\КНУ\Visual Studio\Pobich\Pobich\obj\Debug\Pobich.csproj.CoreCompileInputs.cache
+E:\Own\КНУ\Visual Studio\Pobich\Pobich\obj\Debug\Pobich.exe
+E:\Own\КНУ\Visual Studio\Pobich\Pobich\obj\Debug\Pobich.pdb
+F:\Own\КНУ\1 курс\Visual Studio\Pobich\Pobich\bin\Debug\Pobich.exe.config
+F:\Own\КНУ\1 курс\Visual Studio\Pobich\Pobich\bin\Debug\Pobich.exe
+F:\Own\КНУ\1 курс\Visual Studio\Pobich\Pobich\bin\Debug\Pobich.pdb
+F:\Own\КНУ\1 курс\Visual Studio\Pobich\Pobich\obj\Debug\Pobich.csprojAssemblyReference.cache
+F:\Own\КНУ\1 курс\Visual Studio\Pobich\Pobich\obj\Debug\Pobich.exe
+F:\Own\КНУ\1 курс\Visual Studio\Pobich\Pobich\obj\Debug\Pobich.pdb

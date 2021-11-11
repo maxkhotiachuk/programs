@@ -1,0 +1,20 @@
+E:\Own\КНУ\Visual Studio\file2\file2\bin\Debug\file2.exe.config
+E:\Own\КНУ\Visual Studio\file2\file2\bin\Debug\file2.exe
+E:\Own\КНУ\Visual Studio\file2\file2\bin\Debug\file2.pdb
+E:\Own\КНУ\Visual Studio\file2\file2\obj\Debug\file2.csprojAssemblyReference.cache
+E:\Own\КНУ\Visual Studio\file2\file2\obj\Debug\file2.csproj.CoreCompileInputs.cache
+E:\Own\КНУ\Visual Studio\file2\file2\obj\Debug\file2.exe
+E:\Own\КНУ\Visual Studio\file2\file2\obj\Debug\file2.pdb
+F:\Own\КНУ\Visual Studio\file2\file2\obj\Debug\file2.csprojAssemblyReference.cache
+F:\Own\КНУ\Visual Studio\file2\file2\obj\Debug\file2.csproj.CoreCompileInputs.cache
+F:\Own\КНУ\Visual Studio\file2\file2\obj\Debug\file2.exe
+F:\Own\КНУ\Visual Studio\file2\file2\obj\Debug\file2.pdb
+F:\Own\КНУ\Visual Studio\file2\file2\bin\Debug\file2.exe.config
+F:\Own\КНУ\Visual Studio\file2\file2\bin\Debug\file2.exe
+F:\Own\КНУ\Visual Studio\file2\file2\bin\Debug\file2.pdb
+F:\Own\КНУ\1 курс\Visual Studio\file2\file2\bin\Debug\file2.exe.config
+F:\Own\КНУ\1 курс\Visual Studio\file2\file2\bin\Debug\file2.exe
+F:\Own\КНУ\1 курс\Visual Studio\file2\file2\bin\Debug\file2.pdb
+F:\Own\КНУ\1 курс\Visual Studio\file2\file2\obj\Debug\file2.csprojAssemblyReference.cache
+F:\Own\КНУ\1 курс\Visual Studio\file2\file2\obj\Debug\file2.exe
+F:\Own\КНУ\1 курс\Visual Studio\file2\file2\obj\Debug\file2.pdb
